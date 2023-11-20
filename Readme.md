@@ -13,17 +13,17 @@
 
 
 #### 2. 작성 환경 패키지와 버전
-python = "^3.9"
-numpy = "1.24.4"
-plotly = "^5.18.0"
-dash = "^2.14.1"
-scikit-learn = "^1.3.2"
-xgboost = "^2.0.2"
-lightgbm = "^4.1.0"
-matplotlib = "^3.8.1"
-pandas = "2.1.0"
-dash-bootstrap-components = "^1.5.0"
-shap = "^0.43.0"
+python = "^3.9"  
+numpy = "1.24.4"  
+plotly = "^5.18.0"  
+dash = "^2.14.1"  
+scikit-learn = "^1.3.2"  
+xgboost = "^2.0.2"  
+lightgbm = "^4.1.0"  
+matplotlib = "^3.8.1"  
+pandas = "2.1.0"  
+dash-bootstrap-components = "^1.5.0"  
+shap = "^0.43.0"  
 
 
 #### 3. 폴더 구조
